@@ -160,19 +160,19 @@ const experiences = [
       "Hosting the applications and using feedback from customers to improve the application",
     ],
   },
-  {
-    title: "UI/UX Designer",
-    company_name: "Foodie",
-    icon: meta,
-    iconBg: "#fabed7",
-    date: "June 2023 - Present",
-    points: [
-      "Using explanations from the client and a few sample to bring out the design.",
-      "Showing the design to the client to get feedback from him so we can use the feedback to improve the design",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Colloborating with other designers when necessary.",
-    ],
-  },
+  // {
+  //   title: "UI/UX Designer",
+  //   company_name: "Foodie",
+  //   icon: meta,
+  //   iconBg: "#fabed7",
+  //   date: "June 2023 - Present",
+  //   points: [
+  //     "Using explanations from the client and a few sample to bring out the design.",
+  //     "Showing the design to the client to get feedback from him so we can use the feedback to improve the design",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Colloborating with other designers when necessary.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
