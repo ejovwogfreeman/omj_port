@@ -144,7 +144,7 @@ const experiences = [
       "Transferring the design from figma to flutter.",
       "Collaborating with cross-functional teams including designers, backend developers, and other developers to create high-quality products.",
       "Participating in code reviews and providing constructive feedback to other developers.",
-      "pushing the code to playstore for android users and to appstore for ios users"
+      "pushing the code to playstore for android users and to appstore for ios users",
     ],
   },
   {
@@ -157,7 +157,7 @@ const experiences = [
       "Developing and maintaining web applications using React.js, Tailwind and Node.js",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality Website.",
       "Implementing responsive design and converting the app to a progressive web app (PWA)",
-      "Hosting the applications and using feedback from customers to improve the application"
+      "Hosting the applications and using feedback from customers to improve the application",
     ],
   },
   {
@@ -264,7 +264,7 @@ const projects = [
       },
     ],
     image: a2z,
-    source_code_link: "https://a2z-test.netlify.app/",
+    source_code_link: "https://a2z.com.ng/",
   },
   {
     name: "Themis App",
@@ -285,7 +285,8 @@ const projects = [
       },
     ],
     image: themis,
-    source_code_link: "https://www.figma.com/file/la4X8mimMTE69xUDYPSHU6/Themis-app?type=design&node-id=0-1",
+    source_code_link:
+      "https://www.figma.com/file/la4X8mimMTE69xUDYPSHU6/Themis-app?type=design&node-id=0-1",
   },
   {
     name: "Foodie",
@@ -306,7 +307,8 @@ const projects = [
       },
     ],
     image: foodie,
-    source_code_link: "https://www.figma.com/file/krQd9boJerDweQEv0WCjP3/food-delivery-app?type=design&node-id=0-1",
+    source_code_link:
+      "https://www.figma.com/file/krQd9boJerDweQEv0WCjP3/food-delivery-app?type=design&node-id=0-1",
   },
   {
     name: "Acedemia",
@@ -327,7 +329,8 @@ const projects = [
       },
     ],
     image: acedemia,
-    source_code_link: "https://www.figma.com/file/tGWRTzxZ97CPaDSFPq2nXj/Academia-Team-work?type=design&node-id=0-286",
+    source_code_link:
+      "https://www.figma.com/file/tGWRTzxZ97CPaDSFPq2nXj/Academia-Team-work?type=design&node-id=0-286",
   },
 ];
 
