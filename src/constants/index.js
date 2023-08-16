@@ -160,19 +160,19 @@ const experiences = [
       "Hosting the applications and using feedback from customers to improve the application",
     ],
   },
-  // {
-  //   title: "UI/UX Designer",
-  //   company_name: "Foodie",
-  //   icon: meta,
-  //   iconBg: "#fabed7",
-  //   date: "June 2023 - Present",
-  //   points: [
-  //     "Using explanations from the client and a few sample to bring out the design.",
-  //     "Showing the design to the client to get feedback from him so we can use the feedback to improve the design",
-  //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Colloborating with other designers when necessary.",
-  //   ],
-  // },
+  {
+    title: "UI/UX Designer",
+    company_name: "Foodie",
+    icon: meta,
+    iconBg: "#fabed7",
+    date: "June 2023 - Present",
+    points: [
+      "Using explanations from the client and a few sample to bring out the design.",
+      "Showing the design to the client to get feedback from him so we can use the feedback to improve the design",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Colloborating with other designers when necessary.",
+    ],
+  },
 ];
 
 const testimonials = [
@@ -288,28 +288,28 @@ const projects = [
     source_code_link:
       "https://www.figma.com/file/la4X8mimMTE69xUDYPSHU6/Themis-app?type=design&node-id=0-1",
   },
-  {
-    name: "Foodie",
-    description:
-      "Foodie is a game-changing mobile app that brings a delectable variety of cuisines right to your doorstep Whether you're craving your favorite comfort food or simply seeking a quick and convenient meal.",
-    tags: [
-      {
-        name: "figma",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "flutter",
-        color: "green-text-gradient",
-      },
-      {
-        name: "laravel",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: foodie,
-    source_code_link:
-      "https://www.figma.com/file/krQd9boJerDweQEv0WCjP3/food-delivery-app?type=design&node-id=0-1",
-  },
+  // {
+  //   name: "Foodie",
+  //   description:
+  //     "Foodie is a game-changing mobile app that brings a delectable variety of cuisines right to your doorstep Whether you're craving your favorite comfort food or simply seeking a quick and convenient meal.",
+  //   tags: [
+  //     {
+  //       name: "figma",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "flutter",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "laravel",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: foodie,
+  //   source_code_link:
+  //     "https://www.figma.com/file/krQd9boJerDweQEv0WCjP3/food-delivery-app?type=design&node-id=0-1",
+  // },
   {
     name: "Acedemia",
     description:
